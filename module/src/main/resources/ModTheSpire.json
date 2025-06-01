@@ -1,0 +1,10 @@
+{
+  "modId": "template",
+  "modName": "模板 mod",
+  "modVersion": "1.0",
+  "descriptions": {
+    "zhs": ["template mod"]
+  },
+  "authorList": ["sam"],
+  "dependencies": []
+}

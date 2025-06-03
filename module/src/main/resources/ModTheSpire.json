@@ -1,10 +1,10 @@
 {
-  "modId": "template",
-  "modName": "模板 mod",
+  "modId": "FeminizationMod",
+  "modName": "娘化 mod",
   "modVersion": "1.0",
   "descriptions": {
-    "zhs": ["template mod"]
+    "zhs": ["请使用最新版本的本体来支持本mod"]
   },
-  "authorList": ["sam"],
+  "authorList": ["sam,anaertailin,Dieyou"],
   "dependencies": []
 }

@@ -24,7 +24,7 @@ android {
     }
 
     applicationVariants.all {
-        val outputFileName = "template-$versionName.jar"
+        val outputFileName = "娘化mod-$versionName.jar"
         outputs.all {
             val output = this as com.android.build.gradle.internal.api.BaseVariantOutputImpl
             output.outputFileName = outputFileName

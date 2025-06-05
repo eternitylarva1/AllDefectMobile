@@ -1,9 +1,9 @@
 {
-  "modId": "FeminizationMod",
-  "modName": "娘化 mod",
+  "modId": "DefectSkinMod",
+  "modName": "怪物故障机器人皮肤 mod",
   "modVersion": "1.0",
   "descriptions": {
-    "zhs": ["请使用最新版本的本体来支持本mod"]
+    "zhs": ["给大部分精英和boss提供了故障机器人皮肤"]
   },
   "authorList": ["sam,anaertailin,Dieyou"],
   "dependencies": []
